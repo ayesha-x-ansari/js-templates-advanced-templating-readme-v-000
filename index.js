@@ -5,7 +5,3 @@ function loadIssue() {
     document.getElementsByTagName("main")[0].innerHTML += result;
   }
 }
-
-
-
-  
